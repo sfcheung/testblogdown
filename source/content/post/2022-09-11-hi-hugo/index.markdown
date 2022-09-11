@@ -1,0 +1,25 @@
+---
+title: Hi Hugo
+author: ''
+date: '2022-09-11'
+slug: hi-hugo
+categories: []
+tags: []
+---
+
+This is some R code:
+
+
+```r
+set.seed(562453)
+x <- rnorm(100)
+```
+
+This is a graph:
+
+
+```r
+hist(x)
+```
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
